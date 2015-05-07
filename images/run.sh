@@ -1,0 +1,1 @@
+java -classpath :../../../java/idkit.jar:../../../java/jna.jar Sample
